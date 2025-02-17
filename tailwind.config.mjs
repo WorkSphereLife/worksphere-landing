@@ -10,6 +10,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        purple: {
+          950: '#2E1A47', // Add custom purple shade
+        }
       },
     },
   },
